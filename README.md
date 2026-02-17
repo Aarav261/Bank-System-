@@ -41,8 +41,3 @@ dotnet run --project BankSystem.csproj
 - `DepositTransaction.cs` — Deposit implementation
 - `WithdrawTransaction.cs` — Withdraw implementation
 - `TransferTransaction.cs` — Transfer implementation
-
-## Notes
-
-- Binaries are output under `bin/Debug/net9.0/` after building/running.
-- If you want, I can expand this README with a “How to use” section once you confirm the exact menu/CLI flow in `BankSystem.cs`.
